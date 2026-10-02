@@ -11,7 +11,7 @@ The main objectives were to answer questions such as:
 - How many customers place repeat orders?
 - How long does it take customers to return?
 - How concentrated is gross purchase value across the customer base?
-- Which RFM segments have the highest activity, frequency, and share of gross purchase value?
+- Which RFM segments are the largest and generate the highest gross purchase value?
 - How does retention change across customer cohorts?
 - Which customers are active, at risk, or inactive?
 - How often do customers reactivate after a long period of inactivity?
