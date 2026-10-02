@@ -1,0 +1,12 @@
+# Local data files
+*.csv
+*.xlsx
+*.xls
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
